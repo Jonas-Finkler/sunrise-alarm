@@ -2,16 +2,40 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="276.73755mm"
-   height="102.46019mm"
-   viewBox="0 0 276.73755 102.46019"
+   width="281.49594mm"
+   height="108.40343mm"
+   viewBox="0 0 281.49594 108.40343"
    version="1.1"
    id="svg8"
+   sodipodi:docname="case-cut.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview118"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75134393"
+     inkscape:cx="743.33468"
+     inkscape:cy="391.29883"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
   <defs
      id="defs2" />
   <metadata
@@ -25,9 +49,17 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:10.0002;stroke-linecap:round"
+     id="rect345"
+     width="281.49594"
+     height="108.40343"
+     x="0"
+     y="0"
+     ry="1.7583091e-06" />
   <g
      id="layer1"
-     transform="translate(-119.47105,-425.56091)">
+     transform="translate(-117.32928,-423.7259)">
     <g
        id="g8149"
        transform="rotate(90,257.83982,476.791)">
