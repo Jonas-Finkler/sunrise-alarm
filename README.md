@@ -1,7 +1,7 @@
 # Sunrise Alarm 
 This project is and alarm clock, inspired by Danish winters and powered by an ESP32, that controlls Wiz lights via WiFi. 
 It turns on the lights in the room gently, simulating a sunrise before the alarm goes off. 
-![Image of the alarm clock](https://github.com/Jonas-Finkler/sunrise-alarm/blob/main/images/alarm.jpg)
+![Image of the alarm clock](images/alarm.jpg)
 
 ## Functionality
 The alarm clock features three buttons on top. 
@@ -16,12 +16,12 @@ When the alarm goes off (a buzzer is integrated inside the case) it can be snooz
 
 ## Case
 The case is lasercut out of 3mm thick MDF and was designed using inkscape. 
-![Lasercutting of the case](https://github.com/Jonas-Finkler/sunrise-alarm/blob/main/images/case-cut.svg)
-![Empty case](https://github.com/Jonas-Finkler/sunrise-alarm/blob/main/images/case_empty.jpg)
+![Lasercutting of the case](images/case-cut.svg)
+![Empty case](images/case_empty.jpg)
 
 It is designed to be assembled without glue. 
 All parts, including the ESP32, a buzzer and an seven segment LED display are held in place by friction fits.
-![Case with parts](https://github.com/Jonas-Finkler/sunrise-alarm/blob/main/images/front_assembled.jpg)
+![Case with parts](images/front_assembled.jpg)
 
 ## Software
 To interact with the Wiz light bulbs, the [EspWizLight library](https://github.com/Jonas-Finkler/EspWizLight) is used.
